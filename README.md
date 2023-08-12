@@ -11,3 +11,5 @@ Linux
 
  ./sslcert-capture -host \<host name\> -port \<port number\>
 
+Download from Release page:
+https://github.com/mahendraprabu/sslcert-capture/releases/tag/v1.0.0
